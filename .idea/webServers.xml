@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7bd765c5-650b-4c60-9679-56ac9aaec40b" name="オリエントVPS" url="http://toyohashi-orient.dentatsukun.jp">
+        <fileTransfer accessType="SFTP" host="160.16.54.54" port="22" sshConfigId="00d87c06-5f43-4b61-89a9-d2fcb29d7f4d" sshConfig="オリエントVPS" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
